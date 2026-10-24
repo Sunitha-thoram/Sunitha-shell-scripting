@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo"welcome to helloworld"
+echo "welcome to helloworld"
